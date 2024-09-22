@@ -1,0 +1,1 @@
+# plugins-meteor-slides
